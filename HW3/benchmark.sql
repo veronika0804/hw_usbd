@@ -1,0 +1,1 @@
+INSERT INTO test_table(data) VALUES (random_string(50));
